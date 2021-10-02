@@ -1,0 +1,11 @@
+The sins addressed:
+->No cookies used
+->No hidden fields
+->Nothing hard-coded
+->Nothing can be edited
+
+I used the framework Laravel along with Jetstream. 
+I normally use Laravel when creating web apps in projects and the like,
+I am using the default for this assignment/submission because like you said
+it is pretty good. I believe Laravel is a really good framework for newbies
+and it is pretty secure although the default just covers for this submission.
